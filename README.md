@@ -3,6 +3,7 @@ Python version 3.4 used
 Implemented MapReduce algorithms for a variety of common data processing tasks. The programs use a MapReduce framework (a python file) that implements the MapReduce programming model.
 
 Files include:
+
 1. size_count.py
 Program that implements a MapReduce algorithm to count words of different sizes in documents.
 
